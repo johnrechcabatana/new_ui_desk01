@@ -1,3 +1,7 @@
 .widget{
     background-color: #8bd7d3 !important;
 }
+
+.container, .container-sm, .container-md, .container-lg, .container-xl {
+    max-width: 100% !important;
+}
