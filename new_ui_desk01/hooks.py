@@ -14,11 +14,11 @@ app_license = "MIT"
 
 # include js, css files in header of desk.html
 app_include_css = "/assets/new_ui_desk01/css/ui.css"
-# app_include_js = "/assets/new_ui_desk01/js/new_ui_desk01.js"
+app_include_js = "/assets/new_ui_desk01/js/ui.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/new_ui_desk01/css/new_ui_desk01.css"
-# web_include_js = "/assets/new_ui_desk01/js/new_ui_desk01.js"
+# web_include_js = "/assets/new_ui_desk01/js/ui.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "new_ui_desk01/public/scss/website"
@@ -28,11 +28,11 @@ app_include_css = "/assets/new_ui_desk01/css/ui.css"
 # webform_include_css = {"doctype": "public/css/doctype.css"}
 
 # include js in page
-# page_js = {"page" : "public/js/file.js"}
+# page_js = {"production-plan" : "/assets/new_ui_desk01/js/ui.js"}
 
 # include js in doctype views
 # doctype_js = {"doctype" : "public/js/doctype.js"}
-# doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
+# doctype_list_js = {"Purchase Order" : "public/js/ui.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
